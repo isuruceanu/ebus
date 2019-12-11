@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Arduino_Nano)(type KiCad)(uri /Users/isuruceanu/workspace/Home/kicad/kicad-library/template/Arduino_Nano)(options "")(descr ""))
+  (lib (name raspberrypi-gpio)(type KiCad)(uri /Users/isuruceanu/workspace/Home/kicad/kicad-library/template/raspberrypi-gpio)(options "")(descr ""))
+  (lib (name raspberrrypi_hat)(type KiCad)(uri /Users/isuruceanu/workspace/Home/kicad/kicad-library/template/raspberrrypi_hat)(options "")(descr ""))
+  (lib (name tlc393cp)(type KiCad)(uri /Users/isuruceanu/workspace/Home/kicad/kicad-library/tlc393cp)(options "")(descr ""))
+)

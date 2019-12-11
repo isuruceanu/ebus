@@ -1,0 +1,75 @@
+Info: Backing up file “/Users/isuruceanu/workspace/Home/ebus adapter/sym-lib-table” to file “/Users/isuruceanu/workspace/Home/ebus adapter/rescue-backup/sym-lib-table-2019-10-02-21-45-23”.
+Info: Backing up file “/Users/isuruceanu/workspace/Home/ebus adapter/ebus-pri.sch” to file “/Users/isuruceanu/workspace/Home/ebus adapter/rescue-backup/ebus-pri-2019-10-02-21-45-23.sch”.
+Info: Backing up file “/Users/isuruceanu/workspace/Home/ebus adapter/ebus-pri.pro” to file “/Users/isuruceanu/workspace/Home/ebus adapter/rescue-backup/ebus-pri-2019-10-02-21-45-23.pro”.
+Info: Backing up file “/Users/isuruceanu/workspace/Home/ebus adapter/ebus-pri-cache.lib” to file “/Users/isuruceanu/workspace/Home/ebus adapter/rescue-backup/ebus-pri-cache-2019-10-02-21-45-23.lib”.
+Info: Backing up file “/Users/isuruceanu/workspace/Home/ebus adapter/ebus-pri-rescue.lib” to file “/Users/isuruceanu/workspace/Home/ebus adapter/rescue-backup/ebus-pri-rescue-2019-10-02-21-45-23.lib”.
+Info: Backing up file “/Users/isuruceanu/workspace/Home/ebus adapter/ebus-pri-rescue.dcm” to file “/Users/isuruceanu/workspace/Home/ebus adapter/rescue-backup/ebus-pri-rescue-2019-10-02-21-45-23.dcm”.
+Info: Adding library “ebus-pri-rescue”, file “${KIPRJMOD}/ebus-pri-rescue.lib” to project symbol library table.
+Info: Adding library “Diode1”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/Diode.lib” to project symbol library table.
+Info: Adding library “power1”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/power.lib” to project symbol library table.
+Info: Adding library “device”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/device.lib” to project symbol library table.
+Info: Adding library “linear”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/linear.lib” to project symbol library table.
+Info: Adding library “regul”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/regul.lib” to project symbol library table.
+Info: Adding library “74xx1”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-symbols-master/74xx.lib” to project symbol library table.
+Info: Adding library “adc-dac”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/adc-dac.lib” to project symbol library table.
+Info: Adding library “memory”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/memory.lib” to project symbol library table.
+Info: Adding library “xilinx”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/xilinx.lib” to project symbol library table.
+Info: Adding library “microcontrollers”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/microcontrollers.lib” to project symbol library table.
+Info: Adding library “dsp”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/dsp.lib” to project symbol library table.
+Info: Adding library “microchip”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/microchip.lib” to project symbol library table.
+Info: Adding library “analog_switches”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/analog_switches.lib” to project symbol library table.
+Info: Adding library “motorola”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/motorola.lib” to project symbol library table.
+Info: Adding library “texas”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/texas.lib” to project symbol library table.
+Info: Adding library “intel”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/intel.lib” to project symbol library table.
+Info: Adding library “audio”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/audio.lib” to project symbol library table.
+Info: Adding library “interface”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/interface.lib” to project symbol library table.
+Info: Adding library “digital-audio”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/digital-audio.lib” to project symbol library table.
+Info: Adding library “philips”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/philips.lib” to project symbol library table.
+Info: Adding library “display”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/display.lib” to project symbol library table.
+Info: Adding library “cypress”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/cypress.lib” to project symbol library table.
+Info: Adding library “siliconi”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/siliconi.lib” to project symbol library table.
+Info: Adding library “TLC393CP”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/tlc393cp/TLC393CP.lib” to project symbol library table.
+Info: Adding library “opto”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/opto.lib” to project symbol library table.
+Info: Adding library “atmel”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/atmel.lib” to project symbol library table.
+Info: Adding library “contrib”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-library/library/contrib.lib” to project symbol library table.
+Info: Adding library “Connector1”, file “/Users/isuruceanu/workspace/Home/kicad/kicad-symbols-master/Connector.lib” to project symbol library table.
+Symbol “CNY17-4” mapped to symbol library “opto”.
+Symbol “CNY17-4” mapped to symbol library “opto”.
+Symbol “LED” mapped to symbol library “device”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “GND” mapped to symbol library “power1”.
+Symbol “TLC393CP” mapped to symbol library “TLC393CP”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “GND” mapped to symbol library “power1”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “GND” mapped to symbol library “power1”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “1N4007” mapped to symbol library “Diode1”.
+Symbol “D_Zener” mapped to symbol library “device”.
+Symbol “1N4007” mapped to symbol library “Diode1”.
+Symbol “1N4007” mapped to symbol library “Diode1”.
+Symbol “1N4007” mapped to symbol library “Diode1”.
+Symbol “GND” mapped to symbol library “power1”.
+Symbol “CONN_01X02” mapped to symbol library “ebus-pri-rescue”.
+Symbol “CONN_01X02” mapped to symbol library “ebus-pri-rescue”.
+Symbol “GND” mapped to symbol library “power1”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “LED” mapped to symbol library “device”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “Raspberry_Pi_2_3” mapped to symbol library “Connector1”.
+Symbol “GND” mapped to symbol library “power1”.
+Symbol “GND” mapped to symbol library “power1”.
+Symbol “CONN_01X03” mapped to symbol library “ebus-pri-rescue”.
+Symbol “GND” mapped to symbol library “power1”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “CONN_01X03” mapped to symbol library “ebus-pri-rescue”.
+Symbol “GND” mapped to symbol library “power1”.
+Symbol “R” mapped to symbol library “device”.
+Symbol “BC413” mapped to symbol library “ebus-pri-rescue”.
+Info: Symbol library table mapping complete!

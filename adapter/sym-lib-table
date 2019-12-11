@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ebus-pri-rescue)(type Legacy)(uri ${KIPRJMOD}/ebus-pri-rescue.lib)(options "")(descr ""))
+)
