@@ -512,7 +512,7 @@ L Device:R R5
 U 1 1 5D8A20A4
 P 4850 1100
 F 0 "R5" V 4930 1100 50  0000 C CNN
-F 1 "4.7K" V 4850 1100 50  0000 C CNN
+F 1 "10k" V 4850 1100 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" V 4780 1100 50  0001 C CNN
 F 3 "" H 4850 1100 50  0001 C CNN
 	1    4850 1100
@@ -597,7 +597,7 @@ F 3 "" H 2300 6800 50  0000 C CNN
 	1    2300 6800
 	1    0    0    -1  
 $EndComp
-Text GLabel 3100 6350 2    60   Input ~ 0
+Text GLabel 2200 6650 0    60   Input ~ 0
 TEMP_INS
 Text GLabel 3100 5550 2    60   Input ~ 0
 +5.0V
@@ -718,7 +718,7 @@ Wire Wire Line
 Wire Wire Line
 	2950 5850 3100 5850
 Wire Wire Line
-	2950 6350 3100 6350
-Wire Wire Line
 	8850 4050 8850 5350
+Wire Wire Line
+	2200 6650 2450 6650
 $EndSCHEMATC
